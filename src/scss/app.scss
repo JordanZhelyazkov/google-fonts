@@ -18,6 +18,10 @@ html {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   background: $background;
 }
+html *
+{
+   font-family: Roboto, sans-serif;
+}
 
 .main {
   height: 100vh;
